@@ -1,0 +1,288 @@
+C:\Users\Ravi\source\repos\NavigionStockUpdate\NavigionStockUpdate\bin\Debug\NavigionStockUpdate.exe.config
+C:\Users\Ravi\source\repos\NavigionStockUpdate\NavigionStockUpdate\bin\Debug\NavigionStockUpdate.exe
+C:\Users\Ravi\source\repos\NavigionStockUpdate\NavigionStockUpdate\bin\Debug\NavigionStockUpdate.pdb
+C:\Users\Ravi\source\repos\NavigionStockUpdate\NavigionStockUpdate\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\Ravi\source\repos\NavigionStockUpdate\NavigionStockUpdate\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\Ravi\source\repos\NavigionStockUpdate\NavigionStockUpdate\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\Ravi\source\repos\NavigionStockUpdate\NavigionStockUpdate\bin\Debug\System.Spatial.dll
+C:\Users\Ravi\source\repos\NavigionStockUpdate\NavigionStockUpdate\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\Ravi\source\repos\NavigionStockUpdate\NavigionStockUpdate\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\Ravi\source\repos\NavigionStockUpdate\NavigionStockUpdate\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\Users\Ravi\source\repos\NavigionStockUpdate\NavigionStockUpdate\bin\Debug\System.Spatial.xml
+C:\Users\Ravi\source\repos\NavigionStockUpdate\NavigionStockUpdate\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Ravi\source\repos\NavigionStockUpdate\NavigionStockUpdate\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Ravi\source\repos\NavigionStockUpdate\NavigionStockUpdate\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Ravi\source\repos\NavigionStockUpdate\NavigionStockUpdate\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Ravi\source\repos\NavigionStockUpdate\NavigionStockUpdate\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Ravi\source\repos\NavigionStockUpdate\NavigionStockUpdate\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Ravi\source\repos\NavigionStockUpdate\NavigionStockUpdate\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Ravi\source\repos\NavigionStockUpdate\NavigionStockUpdate\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Ravi\source\repos\NavigionStockUpdate\NavigionStockUpdate\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Ravi\source\repos\NavigionStockUpdate\NavigionStockUpdate\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\Ravi\source\repos\NavigionStockUpdate\NavigionStockUpdate\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\Ravi\source\repos\NavigionStockUpdate\NavigionStockUpdate\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Ravi\source\repos\NavigionStockUpdate\NavigionStockUpdate\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\Ravi\source\repos\NavigionStockUpdate\NavigionStockUpdate\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Ravi\source\repos\NavigionStockUpdate\NavigionStockUpdate\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Ravi\source\repos\NavigionStockUpdate\NavigionStockUpdate\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Ravi\source\repos\NavigionStockUpdate\NavigionStockUpdate\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Ravi\source\repos\NavigionStockUpdate\NavigionStockUpdate\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Ravi\source\repos\NavigionStockUpdate\NavigionStockUpdate\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Ravi\source\repos\NavigionStockUpdate\NavigionStockUpdate\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Ravi\source\repos\NavigionStockUpdate\NavigionStockUpdate\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Ravi\source\repos\NavigionStockUpdate\NavigionStockUpdate\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Ravi\source\repos\NavigionStockUpdate\NavigionStockUpdate\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Ravi\source\repos\NavigionStockUpdate\NavigionStockUpdate\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Ravi\source\repos\NavigionStockUpdate\NavigionStockUpdate\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Ravi\source\repos\NavigionStockUpdate\NavigionStockUpdate\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Ravi\source\repos\NavigionStockUpdate\NavigionStockUpdate\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Ravi\source\repos\NavigionStockUpdate\NavigionStockUpdate\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\Ravi\source\repos\NavigionStockUpdate\NavigionStockUpdate\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\Ravi\source\repos\NavigionStockUpdate\NavigionStockUpdate\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\Ravi\source\repos\NavigionStockUpdate\NavigionStockUpdate\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\Ravi\source\repos\NavigionStockUpdate\NavigionStockUpdate\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\Ravi\source\repos\NavigionStockUpdate\NavigionStockUpdate\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\Ravi\source\repos\NavigionStockUpdate\NavigionStockUpdate\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\Ravi\source\repos\NavigionStockUpdate\NavigionStockUpdate\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\Ravi\source\repos\NavigionStockUpdate\NavigionStockUpdate\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\Ravi\source\repos\NavigionStockUpdate\NavigionStockUpdate\obj\Debug\NavigionStockUpdate.csprojAssemblyReference.cache
+C:\Users\Ravi\source\repos\NavigionStockUpdate\NavigionStockUpdate\obj\Debug\NavigionStockUpdate.csproj.CoreCompileInputs.cache
+C:\Users\Ravi\source\repos\NavigionStockUpdate\NavigionStockUpdate\obj\Debug\NavigionStockUpdate.csproj.CopyComplete
+C:\Users\Ravi\source\repos\NavigionStockUpdate\NavigionStockUpdate\obj\Debug\NavigionStockUpdate.exe
+C:\Users\Ravi\source\repos\NavigionStockUpdate\NavigionStockUpdate\obj\Debug\NavigionStockUpdate.pdb
+C:\Users\Ravi\source\repos\NavigionStockUpdate\NavigionStockUpdate\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ravi\source\repos\NavigionStockUpdate\NavigionStockUpdate\bin\Debug\Newtonsoft.Json.xml
+D:\my work\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\NavigionStockUpdate.exe.config
+D:\my work\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\NavigionStockUpdate.exe
+D:\my work\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\NavigionStockUpdate.pdb
+D:\my work\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\Microsoft.Data.Edm.dll
+D:\my work\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\Microsoft.Data.OData.dll
+D:\my work\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\Microsoft.Data.Services.Client.dll
+D:\my work\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\Newtonsoft.Json.dll
+D:\my work\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\System.Spatial.dll
+D:\my work\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\Microsoft.Data.Edm.xml
+D:\my work\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\Microsoft.Data.OData.xml
+D:\my work\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\Microsoft.Data.Services.Client.xml
+D:\my work\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\Newtonsoft.Json.xml
+D:\my work\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\System.Spatial.xml
+D:\my work\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+D:\my work\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+D:\my work\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+D:\my work\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+D:\my work\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+D:\my work\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+D:\my work\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+D:\my work\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\my work\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\my work\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\de\Microsoft.Data.OData.resources.dll
+D:\my work\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\es\Microsoft.Data.OData.resources.dll
+D:\my work\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+D:\my work\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\it\Microsoft.Data.OData.resources.dll
+D:\my work\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+D:\my work\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+D:\my work\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+D:\my work\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\my work\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\my work\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+D:\my work\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+D:\my work\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+D:\my work\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+D:\my work\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+D:\my work\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+D:\my work\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+D:\my work\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+D:\my work\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+D:\my work\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\de\System.Spatial.resources.dll
+D:\my work\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\es\System.Spatial.resources.dll
+D:\my work\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\fr\System.Spatial.resources.dll
+D:\my work\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\it\System.Spatial.resources.dll
+D:\my work\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\ja\System.Spatial.resources.dll
+D:\my work\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\ko\System.Spatial.resources.dll
+D:\my work\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\ru\System.Spatial.resources.dll
+D:\my work\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\zh-Hans\System.Spatial.resources.dll
+D:\my work\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\zh-Hant\System.Spatial.resources.dll
+D:\my work\TheOne\NavToNopStockUpdate\NavigionStockUpdate\obj\Debug\NavigionStockUpdate.csproj.CoreCompileInputs.cache
+D:\my work\TheOne\NavToNopStockUpdate\NavigionStockUpdate\obj\Debug\NavigionStockUpdate.csproj.CopyComplete
+D:\my work\TheOne\NavToNopStockUpdate\NavigionStockUpdate\obj\Debug\NavigionStockUpdate.exe
+D:\my work\TheOne\NavToNopStockUpdate\NavigionStockUpdate\obj\Debug\NavigionStockUpdate.pdb
+D:\my work\TheOne\NavToNopStockUpdate\NavigionStockUpdate\obj\Debug\NavigionStockUpdate.csprojAssemblyReference.cache
+G:\Saurabh\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\NavigionStockUpdate.exe.config
+G:\Saurabh\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\NavigionStockUpdate.exe
+G:\Saurabh\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\NavigionStockUpdate.pdb
+G:\Saurabh\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\Microsoft.Data.Edm.dll
+G:\Saurabh\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\Microsoft.Data.OData.dll
+G:\Saurabh\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\Microsoft.Data.Services.Client.dll
+G:\Saurabh\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\Newtonsoft.Json.dll
+G:\Saurabh\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\System.Spatial.dll
+G:\Saurabh\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\Microsoft.Data.Edm.xml
+G:\Saurabh\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\Microsoft.Data.OData.xml
+G:\Saurabh\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\Microsoft.Data.Services.Client.xml
+G:\Saurabh\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\Newtonsoft.Json.xml
+G:\Saurabh\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\System.Spatial.xml
+G:\Saurabh\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+G:\Saurabh\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+G:\Saurabh\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+G:\Saurabh\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+G:\Saurabh\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+G:\Saurabh\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+G:\Saurabh\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+G:\Saurabh\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+G:\Saurabh\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+G:\Saurabh\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\de\Microsoft.Data.OData.resources.dll
+G:\Saurabh\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\es\Microsoft.Data.OData.resources.dll
+G:\Saurabh\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+G:\Saurabh\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\it\Microsoft.Data.OData.resources.dll
+G:\Saurabh\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+G:\Saurabh\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+G:\Saurabh\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+G:\Saurabh\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+G:\Saurabh\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+G:\Saurabh\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+G:\Saurabh\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+G:\Saurabh\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+G:\Saurabh\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+G:\Saurabh\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+G:\Saurabh\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+G:\Saurabh\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+G:\Saurabh\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+G:\Saurabh\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+G:\Saurabh\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\de\System.Spatial.resources.dll
+G:\Saurabh\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\es\System.Spatial.resources.dll
+G:\Saurabh\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\fr\System.Spatial.resources.dll
+G:\Saurabh\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\it\System.Spatial.resources.dll
+G:\Saurabh\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\ja\System.Spatial.resources.dll
+G:\Saurabh\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\ko\System.Spatial.resources.dll
+G:\Saurabh\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\ru\System.Spatial.resources.dll
+G:\Saurabh\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\zh-Hans\System.Spatial.resources.dll
+G:\Saurabh\TheOne\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\zh-Hant\System.Spatial.resources.dll
+G:\Saurabh\TheOne\NavToNopStockUpdate\NavigionStockUpdate\obj\Debug\NavigionStockUpdate.csprojAssemblyReference.cache
+G:\Saurabh\TheOne\NavToNopStockUpdate\NavigionStockUpdate\obj\Debug\NavigionStockUpdate.csproj.CoreCompileInputs.cache
+G:\Saurabh\TheOne\NavToNopStockUpdate\NavigionStockUpdate\obj\Debug\NavigionStockUpdate.csproj.CopyComplete
+G:\Saurabh\TheOne\NavToNopStockUpdate\NavigionStockUpdate\obj\Debug\NavigionStockUpdate.exe
+G:\Saurabh\TheOne\NavToNopStockUpdate\NavigionStockUpdate\obj\Debug\NavigionStockUpdate.pdb
+G:\Saurabh\TheOne\console apps\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\NavigionStockUpdate.exe.config
+G:\Saurabh\TheOne\console apps\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\NavigionStockUpdate.exe
+G:\Saurabh\TheOne\console apps\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\NavigionStockUpdate.pdb
+G:\Saurabh\TheOne\console apps\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\Microsoft.Data.Edm.dll
+G:\Saurabh\TheOne\console apps\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\Microsoft.Data.OData.dll
+G:\Saurabh\TheOne\console apps\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\Microsoft.Data.Services.Client.dll
+G:\Saurabh\TheOne\console apps\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\Newtonsoft.Json.dll
+G:\Saurabh\TheOne\console apps\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\System.Spatial.dll
+G:\Saurabh\TheOne\console apps\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\Microsoft.Data.Edm.xml
+G:\Saurabh\TheOne\console apps\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\Microsoft.Data.OData.xml
+G:\Saurabh\TheOne\console apps\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\Microsoft.Data.Services.Client.xml
+G:\Saurabh\TheOne\console apps\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\Newtonsoft.Json.xml
+G:\Saurabh\TheOne\console apps\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\System.Spatial.xml
+G:\Saurabh\TheOne\console apps\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+G:\Saurabh\TheOne\console apps\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+G:\Saurabh\TheOne\console apps\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+G:\Saurabh\TheOne\console apps\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+G:\Saurabh\TheOne\console apps\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+G:\Saurabh\TheOne\console apps\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+G:\Saurabh\TheOne\console apps\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+G:\Saurabh\TheOne\console apps\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+G:\Saurabh\TheOne\console apps\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+G:\Saurabh\TheOne\console apps\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\de\Microsoft.Data.OData.resources.dll
+G:\Saurabh\TheOne\console apps\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\es\Microsoft.Data.OData.resources.dll
+G:\Saurabh\TheOne\console apps\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+G:\Saurabh\TheOne\console apps\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\it\Microsoft.Data.OData.resources.dll
+G:\Saurabh\TheOne\console apps\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+G:\Saurabh\TheOne\console apps\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+G:\Saurabh\TheOne\console apps\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+G:\Saurabh\TheOne\console apps\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+G:\Saurabh\TheOne\console apps\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+G:\Saurabh\TheOne\console apps\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+G:\Saurabh\TheOne\console apps\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+G:\Saurabh\TheOne\console apps\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+G:\Saurabh\TheOne\console apps\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+G:\Saurabh\TheOne\console apps\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+G:\Saurabh\TheOne\console apps\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+G:\Saurabh\TheOne\console apps\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+G:\Saurabh\TheOne\console apps\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+G:\Saurabh\TheOne\console apps\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+G:\Saurabh\TheOne\console apps\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\de\System.Spatial.resources.dll
+G:\Saurabh\TheOne\console apps\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\es\System.Spatial.resources.dll
+G:\Saurabh\TheOne\console apps\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\fr\System.Spatial.resources.dll
+G:\Saurabh\TheOne\console apps\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\it\System.Spatial.resources.dll
+G:\Saurabh\TheOne\console apps\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\ja\System.Spatial.resources.dll
+G:\Saurabh\TheOne\console apps\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\ko\System.Spatial.resources.dll
+G:\Saurabh\TheOne\console apps\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\ru\System.Spatial.resources.dll
+G:\Saurabh\TheOne\console apps\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\zh-Hans\System.Spatial.resources.dll
+G:\Saurabh\TheOne\console apps\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\zh-Hant\System.Spatial.resources.dll
+G:\Saurabh\TheOne\console apps\NavToNopStockUpdate\NavigionStockUpdate\obj\Debug\NavigionStockUpdate.csproj.CoreCompileInputs.cache
+G:\Saurabh\TheOne\console apps\NavToNopStockUpdate\NavigionStockUpdate\obj\Debug\NavigionStockUpdate.csproj.CopyComplete
+G:\Saurabh\TheOne\console apps\NavToNopStockUpdate\NavigionStockUpdate\obj\Debug\NavigionStockUpdate.exe
+G:\Saurabh\TheOne\console apps\NavToNopStockUpdate\NavigionStockUpdate\obj\Debug\NavigionStockUpdate.pdb
+G:\Saurabh\TheOne\console apps\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\ClosedXML.dll
+G:\Saurabh\TheOne\console apps\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\DocumentFormat.OpenXml.dll
+G:\Saurabh\TheOne\console apps\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\ExcelNumberFormat.dll
+G:\Saurabh\TheOne\console apps\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\System.IO.FileSystem.Primitives.dll
+G:\Saurabh\TheOne\console apps\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\System.IO.Packaging.dll
+G:\Saurabh\TheOne\console apps\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\ClosedXML.pdb
+G:\Saurabh\TheOne\console apps\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\ClosedXML.xml
+G:\Saurabh\TheOne\console apps\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\DocumentFormat.OpenXml.xml
+G:\Saurabh\TheOne\console apps\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\ExcelNumberFormat.xml
+G:\Saurabh\TheOne\console apps\NavToNopStockUpdate\NavigionStockUpdate\obj\Debug\NavigionStockUpdate.csprojAssemblyReference.cache
+G:\Saurabh\github projects\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\NavigionStockUpdate.exe.config
+G:\Saurabh\github projects\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\NavigionStockUpdate.exe
+G:\Saurabh\github projects\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\NavigionStockUpdate.pdb
+G:\Saurabh\github projects\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\ClosedXML.dll
+G:\Saurabh\github projects\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\DocumentFormat.OpenXml.dll
+G:\Saurabh\github projects\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\ExcelNumberFormat.dll
+G:\Saurabh\github projects\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\Microsoft.Data.Edm.dll
+G:\Saurabh\github projects\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\Microsoft.Data.OData.dll
+G:\Saurabh\github projects\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\Microsoft.Data.Services.Client.dll
+G:\Saurabh\github projects\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\Newtonsoft.Json.dll
+G:\Saurabh\github projects\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\System.IO.FileSystem.Primitives.dll
+G:\Saurabh\github projects\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\System.IO.Packaging.dll
+G:\Saurabh\github projects\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\System.Spatial.dll
+G:\Saurabh\github projects\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\ClosedXML.pdb
+G:\Saurabh\github projects\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\ClosedXML.xml
+G:\Saurabh\github projects\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\DocumentFormat.OpenXml.xml
+G:\Saurabh\github projects\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\ExcelNumberFormat.xml
+G:\Saurabh\github projects\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\Microsoft.Data.Edm.xml
+G:\Saurabh\github projects\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\Microsoft.Data.OData.xml
+G:\Saurabh\github projects\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\Microsoft.Data.Services.Client.xml
+G:\Saurabh\github projects\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\Newtonsoft.Json.xml
+G:\Saurabh\github projects\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\System.Spatial.xml
+G:\Saurabh\github projects\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+G:\Saurabh\github projects\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+G:\Saurabh\github projects\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+G:\Saurabh\github projects\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+G:\Saurabh\github projects\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+G:\Saurabh\github projects\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+G:\Saurabh\github projects\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+G:\Saurabh\github projects\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+G:\Saurabh\github projects\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+G:\Saurabh\github projects\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\de\Microsoft.Data.OData.resources.dll
+G:\Saurabh\github projects\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\es\Microsoft.Data.OData.resources.dll
+G:\Saurabh\github projects\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+G:\Saurabh\github projects\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\it\Microsoft.Data.OData.resources.dll
+G:\Saurabh\github projects\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+G:\Saurabh\github projects\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+G:\Saurabh\github projects\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+G:\Saurabh\github projects\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+G:\Saurabh\github projects\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+G:\Saurabh\github projects\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+G:\Saurabh\github projects\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+G:\Saurabh\github projects\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+G:\Saurabh\github projects\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+G:\Saurabh\github projects\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+G:\Saurabh\github projects\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+G:\Saurabh\github projects\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+G:\Saurabh\github projects\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+G:\Saurabh\github projects\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+G:\Saurabh\github projects\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\de\System.Spatial.resources.dll
+G:\Saurabh\github projects\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\es\System.Spatial.resources.dll
+G:\Saurabh\github projects\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\fr\System.Spatial.resources.dll
+G:\Saurabh\github projects\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\it\System.Spatial.resources.dll
+G:\Saurabh\github projects\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\ja\System.Spatial.resources.dll
+G:\Saurabh\github projects\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\ko\System.Spatial.resources.dll
+G:\Saurabh\github projects\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\ru\System.Spatial.resources.dll
+G:\Saurabh\github projects\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\zh-Hans\System.Spatial.resources.dll
+G:\Saurabh\github projects\NavToNopStockUpdate\NavigionStockUpdate\bin\Debug\zh-Hant\System.Spatial.resources.dll
+G:\Saurabh\github projects\NavToNopStockUpdate\NavigionStockUpdate\obj\Debug\NavigionStockUpdate.csprojAssemblyReference.cache
+G:\Saurabh\github projects\NavToNopStockUpdate\NavigionStockUpdate\obj\Debug\NavigionStockUpdate.csproj.CoreCompileInputs.cache
+G:\Saurabh\github projects\NavToNopStockUpdate\NavigionStockUpdate\obj\Debug\NavigionStockUpdate.csproj.CopyComplete
+G:\Saurabh\github projects\NavToNopStockUpdate\NavigionStockUpdate\obj\Debug\NavigionStockUpdate.exe
+G:\Saurabh\github projects\NavToNopStockUpdate\NavigionStockUpdate\obj\Debug\NavigionStockUpdate.pdb

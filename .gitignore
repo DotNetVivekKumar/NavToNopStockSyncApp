@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/NavigionStockUpdate/v16
+/.vs/NavToNopStockUpdate/v15/.suo
+/.vs/NavigionStockUpdate/v15
+/.vs/VSWorkspaceState.json
