@@ -1,4 +1,4 @@
-# NavToNopStockSyncApp
+# Nav To Nop Stock Sync App
 
 The NopCommerce-DynamicsNav-StockSync project is a console application built on the .NET Framework 4.6.1. It facilitates seamless integration between NopCommerce, an open-source e-commerce platform, and Microsoft Dynamics Nav ERP using OData services.
 
